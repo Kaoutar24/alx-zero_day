@@ -1,1 +1,1 @@
-I'm a software engineering student
+I am a software engineering student
